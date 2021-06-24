@@ -9,3 +9,7 @@ https://www.bouffalolab.com/bl602
 https://bbs.bouffalolab.com  
 BL62B  
 https://www.aimachip.com/product/showproduct.php?id=62  
+
+## BL702  
+https://github.com/sipeed/RV-Debugger-BL702  
+https://github.com/bouffalolab/bl_mcu_sdk  
