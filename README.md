@@ -11,5 +11,8 @@ BL62B
 https://www.aimachip.com/product/showproduct.php?id=62  
 
 ## BL702  
-https://github.com/sipeed/RV-Debugger-BL702  
 https://github.com/bouffalolab/bl_mcu_sdk  
+http://bouffalolab.gitee.io/bl_mcu_sdk/get_started/bl_dev_cube.html  
+Sipeed RV-debugger-plus JTAG+UART 调试器  
+https://github.com/sipeed/RV-Debugger-BL702  
+https://dl.sipeed.com/Accessories/RV-Debugger%20Plus  
